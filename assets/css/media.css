@@ -1,4 +1,7 @@
 @media (min-width: 200px) and (max-width: 500px) {
+	[class*="col-"] {
+		width: 100%;
+	}
 	.menu {
 		display: none;
 	}
